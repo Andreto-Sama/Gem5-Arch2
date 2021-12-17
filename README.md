@@ -160,6 +160,17 @@ gem5?
   cpu_cluster.clk_domain.clock (system.cpu_clk_domain.clock) : 500  
   sim_seconds : 0.17467  
     
+![εικόνα](https://user-images.githubusercontent.com/49563194/146544468-72364f74-1241-46d9-823c-4f06111ceb78.png)  
+      
+![εικόνα](https://user-images.githubusercontent.com/49563194/146544494-0772e369-aa40-40a9-9573-d54c69cb9ea4.png)  
+      
+![εικόνα](https://user-images.githubusercontent.com/49563194/146544523-d0b620b1-33a5-4988-bcbf-7fca812da306.png)  
+  
+![εικόνα](https://user-images.githubusercontent.com/49563194/146544543-06991a88-ef26-4f0c-8547-c9f18dbeb043.png)  
+  
+![εικόνα](https://user-images.githubusercontent.com/49563194/146544567-cd70092a-e707-4557-bc82-83eca365cfcc.png)  
+   
+
       
       3. 1.5 Ghz  
   bzip :  
